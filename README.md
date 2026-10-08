@@ -1,2 +1,2 @@
 # Al-for-Disaster-Response
-AI-powered disaster healthcare coordination system that predicts emergency patient demand, monitors hospital capacity, and recommends the best hospital for incoming patients. Helps reduce overcrowding, waiting time, and treatment delays through real-time data, AI forecasting, and intelligent patient routing.
+AI monitors hospital capacity and incoming patients, predicts overcrowding, and recommends the best nearby hospital based on capacity, distance, facilities, and emergency level. A live dashboard provides alerts and ambulance routes, helping reduce waiting time and distribute patients efficiently.
